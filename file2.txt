@@ -1,1 +1,2 @@
 Sec File with something else written
+another line added in file 2
